@@ -1,5 +1,4 @@
 # java_budgetapp
-Java budget app ~description to be filled
 
 ### Preface
 This Budgeting app is built with Java and JavaFX. The goal of this app was to make a simple app to basically be a budget planner. It tracks transactions and lets you know how much over/under you are according to your overall monthly budget and monthly budget for each budget category. This app also allows for multiple accounts to use the app with their own independent budgets via a login/signup system. 
